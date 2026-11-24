@@ -199,7 +199,7 @@ O ponto é tornar visível que **trabalhar com prompt é sensível**: mesmo pedi
 ## Testes
 
 ```bash
-pytest                    # 100 testes, sem API, alguns segundos
+pytest                    # 101 testes, sem API, alguns segundos
 pytest -m integracao      # 8 testes (1 é falha conhecida, xfail) com o modelo real (usa a chave do .env)
 ```
 
