@@ -1,0 +1,13 @@
+sigla,nome,pais,idioma_ensino,proficiencia_minima,nota_corte,areas,cursos_destaque,perfil_desejado,apelidos
+USP,Universidade de São Paulo,Brasil,português,0,8.0,Saúde;Exatas;Humanas;Engenharia;Biológicas,Medicina;Engenharia;Direito,Pesquisa científica;Iniciativa;Comprometimento,universidade de sao paulo;fuvest
+UNICAMP,Universidade Estadual de Campinas,Brasil,português,0,7.8,Exatas;Computação;Engenharia;Saúde,Ciência da Computação;Física;Química,Pensamento analítico;Criatividade;Atenção a detalhes,universidade estadual de campinas;comvest
+UFRJ,Universidade Federal do Rio de Janeiro,Brasil,português,0,7.5,Saúde;Biológicas;Humanas;Engenharia,Medicina;Biologia;Arquitetura,Curiosidade;Responsabilidade;Dedicação,universidade federal do rio de janeiro
+UFMG,Universidade Federal de Minas Gerais,Brasil,português,0,7.3,Saúde;Biológicas;Exatas;Humanas,Medicina Veterinária;Ciências Biológicas;Engenharia,Dedicação;Trabalho em equipe,universidade federal de minas gerais
+ITA,Instituto Tecnológico de Aeronáutica,Brasil,português,0,9.0,Engenharia;Exatas;Computação,Engenharia Aeronáutica;Engenharia de Computação,Excelência em exatas;Disciplina;Resiliência,instituto tecnologico de aeronautica
+MIT,Massachusetts Institute of Technology,Estados Unidos,inglês,8.0,9.3,Exatas;Computação;Engenharia;Negócios,Computer Science;Physics;Mechanical Engineering,Inovação;Liderança;Projetos práticos,massachusetts institute of technology
+Toronto,University of Toronto,Canadá,inglês,7.0,8.2,Saúde;Exatas;Computação;Humanas,Computer Science;Life Sciences;Engineering,Pesquisa;Autonomia;Curiosidade,university of toronto;uoft;u of t
+UBC,University of British Columbia,Canadá,inglês,7.0,8.0,Computação;Engenharia;Biológicas;Negócios,Computer Science;Forestry;Commerce,Engajamento comunitário;Curiosidade;Iniciativa,university of british columbia
+Imperial,Imperial College London,Reino Unido,inglês,7.5,8.8,Exatas;Engenharia;Saúde;Negócios,Engineering;Medicine;Business,Rigor acadêmico;Inovação;Trabalho em equipe,imperial college;imperial college london
+TUM,Technische Universität München,Alemanha,alemão,7.0,8.5,Engenharia;Exatas;Computação;Saúde,Informatik;Maschinenwesen;Medizin,Excelência técnica;Autonomia;Internacionalização,technische universitat munchen;technical university of munich;universidade tecnica de munique
+UBA,Universidad de Buenos Aires,Argentina,espanhol,6.0,6.5,Saúde;Humanas;Biológicas;Exatas,Medicina;Derecho;Ciencias Biológicas,Comprometimento social;Pensamento crítico,universidad de buenos aires
+ULisboa,Universidade de Lisboa,Portugal,português,0,7.0,Humanas;Saúde;Exatas;Negócios,Direito;Medicina;Economia,Pensamento crítico;Comunicação;Dedicação,universidade de lisboa

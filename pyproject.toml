@@ -1,0 +1,12 @@
+[project]
+name = "orientador-academico"
+version = "0.1.0"
+description = "Orientador acadêmico com LangChain e LangGraph: match estudante x universidade"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-m 'not integracao'"
+markers = ["integracao: chama o modelo de verdade (precisa de chave de API)"]
+filterwarnings = ["ignore::DeprecationWarning"]

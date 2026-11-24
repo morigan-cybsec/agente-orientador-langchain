@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+
+# conversas registradas (dados internos de alunos)
+conversas/*
+!conversas/.gitkeep
