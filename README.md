@@ -111,8 +111,8 @@ O `create_agent` monta esse laço: o **modelo** decide qual ferramenta chamar; a
 Requer **Python 3.10+** e uma chave de API.
 
 ```bash
-git clone <url-do-repo>
-cd orientador-academico
+git clone https://github.com/morigan-cybsec/agente-orientador-langchain.git
+cd agente-orientador-langchain
 python -m venv .venv
 ```
 
